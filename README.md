@@ -1,4 +1,10 @@
-### Hi there 👋
+# Hola, mi nombre es Martin 👋
+### Freelance full-stack
+
+Soy ingeniero de software profesional desde hace más de doce años.
+
+En 2017 dejé mi trabajo en una multinacional y me hice docente, el reflejo de mi sueño de crecer como profesional dentro de la industria de la enseñanza.
+Desde entonces me he dedicado a especializarme en el desarrollo de metodologías, trabajos cooperativos y mentoring para el alumnado.
 
 <!--
 **jmartinrivero/jmartinrivero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
