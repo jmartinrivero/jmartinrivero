@@ -7,7 +7,7 @@ En 2017 dejé mi trabajo en una multinacional y me hice docente, el reflejo de m
 Desde entonces me he dedicado a especializarme en el desarrollo de metodologías, trabajos cooperativos y mentoring para el alumnado.
 
 
-<img src="https://imgur.com/a/P4DeEzI">
+<img src="https://imgur.com/a/P4DeEzI"/>
 
 
 <!--
